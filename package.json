@@ -1,0 +1,26 @@
+{
+  "name": "DevOpsDuniya",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "bcrypt": "^5.0.0",
+    "ejs": "^3.1.10",
+    "express": "^4.17.1",
+    "express-rate-limit": "^5.3.0",
+    "express-session": "^1.17.2",
+    "google-auth-library": "^9.15.1",
+    "googleapis": "^144.0.0",
+    "mongoose": "^8.9.5",
+    "node-fetch": "^3.3.2",
+    "nodemailer": "^6.10.0",
+    "dotenv": "^16.4.7"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
